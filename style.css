@@ -1,0 +1,95 @@
+body{
+    background-color: darkgray;
+}
+#tete{
+    background-color: cornsilk;
+    width: 1080px;
+    height: 100px;
+}
+#intro1{
+    background-color: blueviolet;
+    width: 1080px;
+    height: 300px;
+}
+.intro{
+    background-color: white;
+    width: 680px;
+    height: 100px;
+    margin-left: 200px;
+    margin-top: -240px;
+}
+.TT{
+    background-color: burlywood;
+    width: 150px;
+    height: 40px;
+    margin-left: 520px;
+    margin-top: -20px;
+}
+.menu{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    margin-top: -25px;
+    margin-left: 250px;
+}
+.lab{
+    margin-left: 900px;
+    margin-top: -80px;
+}
+.cont{
+    margin-top: 150px;
+}
+#intro3{
+    border: 1px solid blue;
+    background-color: bisque;
+    width: 500px;
+    height: 300px;
+}
+#intro4{
+    background-image: url(font2.png);
+    width: 570px;
+    height: 300px;
+    margin-left: 510px;
+    margin-top: -300px;
+}
+.Nuv{
+    border: 1px solid blue;
+    width: 200px;
+    height: 50px;
+    margin-left: 30px;
+    margin-top: 60px;
+}
+.OUI{
+    margin-left: 50px;
+}
+.IM{
+    margin-top: -30px;
+}
+#image1{
+    margin-top: 6px;
+    margin-left: 5px;
+}
+#image2{
+    margin-top: -280px;
+    margin-left: 400px;
+}
+#image3{
+    margin-top: -280px;
+    margin-left: 780px;
+}
+#pied{
+ width: 1305px;
+ height: 200px;
+ background-color:whitesmoke;
+}
+.titre1{
+    margin-top: 10px;
+    margin-left: 100px;
+}
+.titre2{
+    margin-top: -215px;
+  margin-left: 330px;
+}
+.titre3{
+    margin-top: -140px;
+    margin-left: 530px;
+}
